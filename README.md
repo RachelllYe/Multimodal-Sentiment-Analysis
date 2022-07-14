@@ -50,6 +50,6 @@ lr: set the learning rate
 We use the arracy to measure model performance, and it is displayed as follows.
 |Input|Accuracy|
 |:---|:---|
-|MultiModal|73.1%|
+|Text + Image|73.1%|
 |Only Text|69.2%|
 |Only Image|67%|
