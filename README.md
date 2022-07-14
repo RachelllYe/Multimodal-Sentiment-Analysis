@@ -3,6 +3,11 @@ This repository is about the Final Project:Multimodal-Sentiment-Analysis of DaSE
 
 ## Setup
 This implemetation is based on Python3. To run the code, you need the following dependencies:
+* torch==1.11.0
+* numpy==1.21.5
+* transformers==4.19.2
+* sklearn==1.0.1
+* torchvision==0.12.0
 
 You can simply run<br>
 ```python
