@@ -46,3 +46,10 @@ epochs: set the total epoch numbers of training
 dropout: set the drop out rate to avoid overfitting
 lr: set the learning rate
 ```
+## Results
+We use the arracy to measure model performance, and it is displayed as follows.
+|Input|Accuracy|
+|:---|:---|
+|MultiModal|73.1%|
+|Only Text|69.2%|
+|Only Image|67%|
